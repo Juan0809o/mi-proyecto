@@ -14,4 +14,5 @@ git remote add origin https://github.com/Juan0809o/2-proyecto.git
 git branch -M main
 git push -u origin main
 git checkout -b version-2.0
+git push -u origin version-2.0
 
