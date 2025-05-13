@@ -1,6 +1,6 @@
 # mi-proyecto
-git config --global user.name "TuNombre"
-git config --global user.email "tunombre@email.com"
+git config --global user.name "Juan Cano Gonzalez"
+git config --global user.email "jcg0083@alu.medac.es"
 mkdir mi_proyecto
 cd mi_proyecto
 git init
